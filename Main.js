@@ -31,7 +31,7 @@ function addStudent(student){
     Students.push(student)
 }
 addStudent(createStudent(1,"Seif","bh","Seif@gmail.com","F2"))
-addStudent(createStudent(2,"Hosni","Hamdi","Hamdi@gmail.com","F3"))
+addStudent(createStudent(2,"Hassen","Hamdi","Hassen@gmail.com","F3"))
 
 
 //GET /students => returns the list of all existing students
